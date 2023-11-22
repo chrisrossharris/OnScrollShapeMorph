@@ -4,7 +4,7 @@ A demo of a on-scroll shape morph animations with an interactive tilt effect.
 
 ![On-Scroll Shape Morph](https://tympanus.net/codrops/wp-content/uploads/2023/11/ShapeMorph-1.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=74333)
+[Article on Leap Group](https://tympanus.net/codrops/?p=74333)
 
 [Demo](http://tympanus.net/Development/OnScrollShapeMorph/)
 
@@ -18,12 +18,12 @@ Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Misc
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+Follow Leap Group: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+Made with :blue_heart:  by [Leap Group](http://www.codrops.com)
 
 
 

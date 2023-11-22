@@ -25,8 +25,8 @@ html, body {
 :root {
 	font-size: 14px;
 	--color-text: #fff;
-	--color-bg: #0b0826;
-	--color-bg-alt: hsl(222.55deg 100% 49.22%);
+	--color-bg: #2E1A47;
+	--color-bg-alt: hsl(267deg 46% 50%);
 	--color-link: #fff;
 	--color-link-hover: #fff;
 	--color-title: #fff;
